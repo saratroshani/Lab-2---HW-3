@@ -4,6 +4,8 @@ Study Group Members: Sara Troshani, Huzaifa
 
 ## Age by Gender
 
+## Age by Gender
+
 ```r
 summary(Age[Gender == "female"])
 summary(Age[Gender == "male"])
