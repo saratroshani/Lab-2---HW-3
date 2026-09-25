@@ -9,9 +9,7 @@ summary(Age[Gender == "female"])
 summary(Age[Gender == "male"])
 summary(Age[Gender == "trans"])
 summary(Age[Gender == "other"])
-```
 
-```r
 mean(Age[Gender == "female"])
 sd(Age[Gender == "female"])
 
