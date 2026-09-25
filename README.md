@@ -1,7 +1,4 @@
 # Lab-2---HW-3
-# Lab 2 - Household Pulse Data
-
-Name: Sara Troshani
 
 Study Group Members: Sara Troshani, Huzaifa 
 
