@@ -1,8 +1,6 @@
 # Lab-2---HW-3
 
-Study Group Members: Sara Troshani, Huzaifa 
-
-## Age by Gender
+Group Members: Sara Troshani, Huzaifa 
 
 ## Age by Gender
 
